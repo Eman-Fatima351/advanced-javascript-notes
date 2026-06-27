@@ -149,7 +149,7 @@ All files are plain JavaScript — no frameworks, no bundlers, no installation r
 ### Running a file
 ```bash
 # Clone the repository
-git clone https://github.com/emanfatimaswe-commits/advanced-javascript-notes
+git clone https://github.com/Eman-Fatima351/advanced-javascript-notes
 cd advanced-javascript-notes
 
 # Run any file directly
